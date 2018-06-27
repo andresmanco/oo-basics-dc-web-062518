@@ -9,6 +9,5 @@ class Shoe
   
   def cobble
     puts 'the shoe has been repaired'
-    :condition = 'old'
   end
 end
