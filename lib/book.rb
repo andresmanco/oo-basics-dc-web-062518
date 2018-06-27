@@ -4,6 +4,7 @@ class Book
   def initialize(title)
     @title = title
   end
+  
   attr_writer :title
   
   def turn_page
