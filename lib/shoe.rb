@@ -3,6 +3,6 @@ class Shoe
     @brand = brand
   end
   attr_reader :reader
-  attr_accessor :color, :size, :material, :condition 
+  attr_accessor :color, :size, :material, :condition, :brand
   
 end
